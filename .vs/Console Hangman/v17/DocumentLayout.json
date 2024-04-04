@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\C# Practise Projects\\Console Hangman\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C27CA6AE-192C-493C-BE7E-137EEFFDD001}|Console Hangman.csproj|c:\\c# practise projects\\console hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C27CA6AE-192C-493C-BE7E-137EEFFDD001}|Console Hangman.csproj|C:\\C# Practise Projects\\Console Hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C27CA6AE-192C-493C-BE7E-137EEFFDD001}|Console Hangman.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27CA6AE-192C-493C-BE7E-137EEFFDD001}|Console Hangman.csproj|c:\\c# practise projects\\console hangman\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27CA6AE-192C-493C-BE7E-137EEFFDD001}|Console Hangman.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27CA6AE-192C-493C-BE7E-137EEFFDD001}|Console Hangman.csproj|C:\\C# Practise Projects\\Console Hangman\\enumhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27CA6AE-192C-493C-BE7E-137EEFFDD001}|Console Hangman.csproj|solutionrelative:enumhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27CA6AE-192C-493C-BE7E-137EEFFDD001}|Console Hangman.csproj|C:\\C# Practise Projects\\Console Hangman\\difficulties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27CA6AE-192C-493C-BE7E-137EEFFDD001}|Console Hangman.csproj|solutionrelative:difficulties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,14 +36,48 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\C# Practise Projects\\Console Hangman\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T20:21:49.936Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\C# Practise Projects\\Console Hangman\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\C# Practise Projects\\Console Hangman\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T21:05:18.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnumHelpers.cs",
+              "DocumentMoniker": "C:\\C# Practise Projects\\Console Hangman\\EnumHelpers.cs",
+              "RelativeDocumentMoniker": "EnumHelpers.cs",
+              "ToolTip": "C:\\C# Practise Projects\\Console Hangman\\EnumHelpers.cs",
+              "RelativeToolTip": "EnumHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:35:03.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Difficulties.cs",
+              "DocumentMoniker": "C:\\C# Practise Projects\\Console Hangman\\Difficulties.cs",
+              "RelativeDocumentMoniker": "Difficulties.cs",
+              "ToolTip": "C:\\C# Practise Projects\\Console Hangman\\Difficulties.cs",
+              "RelativeToolTip": "Difficulties.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:24:46.467Z"
             }
           ]
         }
