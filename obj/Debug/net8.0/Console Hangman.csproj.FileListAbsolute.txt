@@ -1,0 +1,15 @@
+C:\C# Practise Projects\Console Hangman\obj\Debug\net8.0\Console Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Practise Projects\Console Hangman\obj\Debug\net8.0\Console Hangman.AssemblyInfoInputs.cache
+C:\C# Practise Projects\Console Hangman\obj\Debug\net8.0\Console Hangman.AssemblyInfo.cs
+C:\C# Practise Projects\Console Hangman\obj\Debug\net8.0\Console Hangman.csproj.CoreCompileInputs.cache
+C:\C# Practise Projects\Console Hangman\obj\Debug\net8.0\Console Hangman.sourcelink.json
+C:\C# Practise Projects\Console Hangman\bin\Debug\net8.0\Console Hangman.exe
+C:\C# Practise Projects\Console Hangman\bin\Debug\net8.0\Console Hangman.deps.json
+C:\C# Practise Projects\Console Hangman\bin\Debug\net8.0\Console Hangman.runtimeconfig.json
+C:\C# Practise Projects\Console Hangman\bin\Debug\net8.0\Console Hangman.dll
+C:\C# Practise Projects\Console Hangman\bin\Debug\net8.0\Console Hangman.pdb
+C:\C# Practise Projects\Console Hangman\obj\Debug\net8.0\Console Hangman.dll
+C:\C# Practise Projects\Console Hangman\obj\Debug\net8.0\refint\Console Hangman.dll
+C:\C# Practise Projects\Console Hangman\obj\Debug\net8.0\Console Hangman.pdb
+C:\C# Practise Projects\Console Hangman\obj\Debug\net8.0\Console Hangman.genruntimeconfig.cache
+C:\C# Practise Projects\Console Hangman\obj\Debug\net8.0\ref\Console Hangman.dll
