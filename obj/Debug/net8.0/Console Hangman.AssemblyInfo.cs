@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Console Hangman")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6ecf52b3b1c33687905e52875cb08f48b51135f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdd366af93d41201ae7f5ec2afa715cbfdb40265")]
 [assembly: System.Reflection.AssemblyProductAttribute("Console Hangman")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Console Hangman")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
